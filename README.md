@@ -1,6 +1,8 @@
 **Hello👋**
-- 👀 I’m interested in RL
-- 🌱 I’m currently learning PyTorch, TypeScript
+
+- Languages: Python, TypeScript
+- Frameworks: FastAPI, React, Next.js, PyTorch
+- Skills: Web Backend/Frontend, ML, RL
 
 <!---
 a4rcvv/a4rcvv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
